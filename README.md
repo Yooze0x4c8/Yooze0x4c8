@@ -4,7 +4,7 @@ Name : Yooze (Doyoung.Y)
 
 ## 📚 Education
 
- - [Soongsil Univ](https://ssu.ac.kr/) | 컴퓨터학부 | 24.03 - Current
+ - [Soongsil Univ](https://ssu.ac.kr/) | 컴퓨터학부(Computer Science && Engineering) | 24.03 - Current
  - [California Statue University Monterey Bay](https://csumb.edu/) | international student | 26.08 - Current
 
 
