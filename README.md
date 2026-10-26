@@ -42,5 +42,8 @@ Name : Yooze (Doyoung.Y)
  - [UMC](https://umc.makeus.in/) | UMC 9기 스프링부트 파트 주니어코스 수료 | 25.09 - 26.02
  - [UMC](https://umc.makeus.in/) | UMC 10기 스프링부트 파트 파트장 | 26.02 - 26.08
 
+## AI
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 ## 블로그 활동
  - [CromArchive](https://cromcode.tistory.com/)
